@@ -1,3 +1,6 @@
+> [!NOTE]
+> AWPapers is the technology that will be powering Bitchy LLCs art and commission service and is being developed for that reason, do not request white labeling of the technology at your own firm, we will offer and API for that.
+
 # awpapers
 
 **awpapers** is a platform dedicated to showcasing and commissioning non-AI artwork. Our mission is to support human artists and provide a safe, secure space for art commissions.
